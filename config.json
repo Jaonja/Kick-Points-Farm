@@ -1,0 +1,11 @@
+{
+    "Private": {
+        "token": "YOUR_TOKEN"
+    },
+
+    "Streamers": [
+        {
+            "name": "azdus"
+        }
+    ]
+}
